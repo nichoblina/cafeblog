@@ -1,0 +1,18 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment configuration
+.env
+
+# Ignore XAMPP specific files
+xamppfiles/
+
+# Ignore node_modules if you ever use Node.js
+node_modules/
+
+# Ignore vendor if you use Composer
+vendor/
+
+# Ignore database backups if they're sensitive
+database/*.bak
